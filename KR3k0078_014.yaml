@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3k0078/chant/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第十三卷缺
+  hash: sha256:429e79e3ca8fb9532e8a8584a391a3ce9320261f990edfc9e9997c97e9d9b3dd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3k0078_CHANT_014-bkkth1}
+metadata:
+  title: 群書治要
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3k0078.xml
+hash: sha256:91fc32ee13c31a89744492abd8f4ae5a5ce54ae75b26a5dcccb2d32f7d8c8814

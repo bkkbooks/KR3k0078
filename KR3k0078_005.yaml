@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3k0078/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷第四缺
+  hash: sha256:b325315e1af4863f6f1e2c5e70242862eaf24d5b3a7b2647892f8f206a6a4985
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3k0078_CHANT_005-bkkth1}
+metadata:
+  title: 群書治要
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3k0078.xml
+hash: sha256:0af75fecc4550c06979cc8b96d4e888a4fbe320d9bf32946e88b8bc7ced63103

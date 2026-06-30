@@ -1,0 +1,13 @@
+canonical_identifier: bkk:krp/KR3k0078/bkk/v1/markers/21
+seq: 21
+markers:
+  front: []
+  body:
+  - {type: punctuation, offset: 0, content: '*', id: KR3k0078_CHANT_021-bkkpn1}
+  - {type: punctuation, offset: 0, content: '*', id: KR3k0078_CHANT_021-bkkpn2}
+  - {type: xml-element, offset: 0, content: '', id: KR3k0078_CHANT_021-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3k0078_CHANT_021-1a.1}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3k0078_CHANT_021-1a.2}
+  - {type: xml-element, offset: 5, content: '', id: KR3k0078_CHANT_021-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:de3774f04544b7a47ecba26fe51da353358a4e6a54febde3b47c7d13d0634716

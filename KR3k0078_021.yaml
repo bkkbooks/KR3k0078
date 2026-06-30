@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3k0078/chant/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷第二十缺
+  hash: sha256:5451ae399a31c9e5d4b3fbbfe3fed5b40826c3c2b8571da01a2aca54548c373b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3k0078_CHANT_021-bkkth1}
+metadata:
+  title: 群書治要
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3k0078.xml
+hash: sha256:a5ac23faded6094ba5b1caeb0238b696dc2e9798484571390b37cbb4bc21f20b
